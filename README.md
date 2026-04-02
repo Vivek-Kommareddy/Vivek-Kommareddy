@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/📍%20Arlington%2C%20VA-Open%20to%20Relocation-2EA44F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍%20New Jersey%2C%20USA-Open%20to%20Relocation-2EA44F?style=for-the-badge" />
 
 <br/><br/>
 
