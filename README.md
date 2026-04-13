@@ -84,12 +84,13 @@ Currently working as a **Software Development Engineer** at Core Software Techno
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Cosmos Intelligence**](https://github.com/Vivek-Kommareddy/COSMOS-INTELLIGENCE) | Enterprise autonomous BI platform that transforms raw CSV data into anomaly detection, root cause analysis, forecasting, recommendations, and AI-driven scenario simulation via a 7-stage intelligence pipeline | FastAPI · Next.js · scikit-learn · Prophet · AWS · Claude |
 | [**Multi-Agent AI Workflow**](https://github.com/Vivek-Kommareddy/Multi-Agent-AI-Workflow) | Production-grade DAG of 5 specialized agents — Planner → Researcher → Analyst → Writer → Critic — with real-time WebSocket streaming and YAML-configured workflows | LangGraph · FastAPI · Docker · WebSocket |
 | [**NexaFlow**](https://vivek-kommareddy-portfolio.netlify.app/) | Serverless analytics platform: Firehose ingestion → Glue ETL → Athena queries → QuickSight dashboards, event-driven via EventBridge | AWS Lambda · Glue · Athena · S3 · QuickSight |
 | [**RAG QA System**](https://github.com/Vivek-Kommareddy/RAG-QA-SYSTEM) | Retrieval-augmented generation pipeline with FAISS vector store, semantic chunking, and GPT-4 completions | LangChain · FAISS · OpenAI · FastAPI |
 | [**LungVision DL**](https://github.com/Vivek-Kommareddy/LUNGVISION-DL) | Deep learning classification on 112,120 NIH chest X-rays — 88.9% accuracy benchmarking InceptionResNetV2 vs VGG19 | Keras · TensorFlow · OpenCV · NumPy |
 | [**AI Resume Skill Analyzer**](https://github.com/Vivek-Kommareddy/AI-Resume-Skill-Analyzer) | LLM-powered pipeline that extracts, compares, and scores resume skills against job descriptions | Python · LLMs · NLP · Streamlit |
-| [**Satellite Tree Enumeration**](https://vivek-kommareddy-portfolio.netlify.app/) | ISRO Cartosat-2 satellite imagery → automated tree detection and counting across 10,000+ trees | OpenCV · QGIS · Python · Remote Sensing |
+| [**Satellite Tree Enumeration**](https://github.com/Vivek-Kommareddy/tree-enumeration-cartosat2) | ISRO Cartosat-2 satellite imagery → automated tree detection and counting across 10,000+ trees | OpenCV · QGIS · Python · Remote Sensing |
 | [**Fundus Feature Detection**](https://vivek-kommareddy-portfolio.netlify.app/) | Patented system (Indian Patent #366946001) for automated retinal feature detection from fundus images | CNN · OpenCV · Keras · Medical Imaging |
 | [**IPL Auction iOS App**](https://vivek-kommareddy-portfolio.netlify.app/) | Full-stack iOS application simulating real-time IPL auction mechanics with live bidding logic | Swift · iOS · REST API |
 
@@ -124,6 +125,8 @@ Currently working as a **Software Development Engineer** at Core Software Techno
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![App Runner](https://img.shields.io/badge/App%20Runner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Data Engineering & Analytics**
 
@@ -139,6 +142,8 @@ Currently working as a **Software Development Engineer** at Core Software Techno
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-1F77B4?style=flat-square&logoColor=white)
 
 **AI / ML / LLMs**
 
@@ -154,6 +159,8 @@ Currently working as a **Software Development Engineer** at Core Software Techno
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0047AB?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-FF6F00?style=flat-square&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-1F77B4?style=flat-square&logoColor=white)
 
 **Frameworks & Databases**
 
@@ -166,6 +173,9 @@ Currently working as a **Software Development Engineer** at Core Software Techno
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logoColor=white)
 
 **DevOps & Tools**
 
@@ -175,6 +185,15 @@ Currently working as a **Software Development Engineer** at Core Software Techno
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Frontend & Visualization**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ---
 
